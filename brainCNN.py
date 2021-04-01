@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 31 21:17:32 2021
-
-@author: amrut
-"""
 
 import keras
 from keras.models import load_model
