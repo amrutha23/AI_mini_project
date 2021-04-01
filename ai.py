@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 29 17:17:02 2021
-
-@author: amrut
-"""
 
 from numpy import mean
 from numpy import std
