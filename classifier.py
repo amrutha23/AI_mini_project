@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 31 21:17:29 2021
-
-@author: amrut
-"""
 
 import os
 from tkinter import *
